@@ -1,50 +1,50 @@
-Amigo Secreto
+secret friend
 
-Este projeto implementa um desafio de Amigo Secreto, permitindo que os participantes sejam sorteados de forma aleatória diretamente em um site simples.
+This project implements a Secret Santa challenge, allowing participants to be drawn at random directly on a simple website.
 
-Funcionalidades
+Features
 
-Adicionar nomes dos participantes.
+Add participant names.
 
-Visualizar a lista de participantes adicionados.
+View the list of added participants.
 
-Realizar o sorteio aleatório para definir o Amigo Secreto (mostrando apenas um par por vez).
+Carry out a random draw to define the Secret Santa (showing only one pair at a time).
 
-Visualizar o par sorteado na tela.
+View the drawn pair on the screen.
 
-Limpar a lista de participantes.
+Clear the participant list.
 
-Impedir a adição de nomes duplicados.
+Prevent adding duplicate names.
 
-Exibir uma mensagem de erro caso o campo de entrada esteja vazio.
+Display an error message if the input field is empty.
 
-Tecnologias Utilizadas
+Technologies Used
 
-HTML: Para estruturação da página.
+HTML: For structuring the page.
 
-CSS: Para estilização visual do site.
+CSS: For visual styling of the site.
 
-JavaScript: Para adicionar interatividade e realizar o sorteio.
-Como Funciona o Sorteio
+JavaScript: To add interactivity and carry out the draw.
+How the Draw Works
 
-O sorteio é realizado com base nos seguintes passos:
+The draw is carried out based on the following steps:
 
-Os nomes adicionados são armazenados em uma lista.
+Added names are stored in a list.
 
-O código embaralha os nomes aleatoriamente.
+The code shuffles the names randomly.
 
-Um par é selecionado aleatoriamente para exibição.
+One pair is randomly selected for display.
 
-Customização
+Customization
 
-Você pode alterar a imagem de fundo ou os estilos modificando o arquivo style.css.
+You can change the background image or styles by modifying the style.css file.
 
-Caso deseje mudar a lógica do sorteio, edite o arquivo app.js.
+If you want to change the draw logic, edit the app.js file.
 
-Exemplos de Uso
+Usage Examples
 
-Reuniões de família.
+Family reunions.
 
-Eventos corporativos.
+Corporate events.
 
-Encontros de amigos.
+Friends meetings.
